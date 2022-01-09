@@ -19,6 +19,8 @@ img{
 }
 
 #spanId{
+  display: block;
+  text-align: justify;
   font-size: 25px;
 
 
